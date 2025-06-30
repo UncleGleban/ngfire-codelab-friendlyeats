@@ -1,11 +1,8 @@
 /node_modules
 /dist
 .angular
-<<<<<<< HEAD
-=======
 
 # Firebase
 .firebase
 *-debug.log
 .runtimeconfig.json
->>>>>>> 82689b2 (Install AngularFire.)
