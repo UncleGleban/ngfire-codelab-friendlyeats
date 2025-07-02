@@ -1,6 +1,7 @@
 /node_modules
 /dist
 .angular
+.DS_Store
 
 # Firebase
 .firebase
