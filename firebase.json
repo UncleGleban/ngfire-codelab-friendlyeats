@@ -6,6 +6,7 @@
   "hosting": [
     {
       "source": ".",
+      "target": "friendlychat",
       "ignore": [
         "firebase.json",
         "**/.*",
@@ -14,11 +15,6 @@
       "frameworksBackend": {
         "region": "us-central1"
       }
-    },
-    {
-      "target": "friendlychat",
-      "source": ".",
-      "frameworksBackend": {}
     }
   ],
   "storage": {
